@@ -6,5 +6,6 @@ In this project we created interactive web based plotly dashboards in python to 
 ![Screenshot_25](https://user-images.githubusercontent.com/30927473/140304488-af9fef61-c287-47e7-b137-786c52fe3574.png)
 
 
-Resources
+# Resources
+
 https://www.udemy.com/course/create-interactive-dashboards-in-python-by-plotly-dash/?referralCode=EB55D2E6AB0B2576C796
